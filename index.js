@@ -12,7 +12,7 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "24196335160017473";
+const GROUP_THREAD_ID = "25859642806958809";
 const LOCKED_GROUP_NAME = "🤪 EXIT FUNNY KIDX + TUSHAR BOKA CHUDKE DAFAN 😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
